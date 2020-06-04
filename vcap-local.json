@@ -1,0 +1,12 @@
+{
+ "services": {
+   "cloudantNoSQLDB": [
+     {
+       "credentials": {
+         "url":"https://getstartednode-friendly-warthog-et.eu-gb.mybluemix.net/"
+       },
+       "label": "cloudantNoSQLDB"
+     }
+   ]
+ }
+}
